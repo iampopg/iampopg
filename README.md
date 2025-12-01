@@ -41,7 +41,6 @@ If you're working on something impactful, I’d be glad to connect.
 ## Connect With Me
 
 * **Twitter:** @iampopg
-* **Telegram:** @iampopg
 * **Techmore:** [https://techmore.ng](https://techmore.ng)
 
 ---
