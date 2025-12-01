@@ -1,6 +1,6 @@
 # Hi, I'm Pop G 
 
-Cybersecurity Analyst • Digital Forensics Specialist • Security Researcher
+Cybersecurity Analyst • Digital Forensics Specialist • Security Researcher • 
 Founder of **Techmore.ng**, a platform focused on empowering businesses and supporting digital growth across Africa.
 
 ---
