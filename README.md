@@ -1,11 +1,13 @@
 <div align="center">
-
+ 
 <!-- Typing SVG header — replace 'iampopg' with your real GitHub username everywhere below -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Pop+G+%F0%9F%91%8B;Cybersecurity+Analyst;Digital+Forensics+Specialist;Security+Researcher;Founder+%40+Techmore.ng)](https://git.io/typing-svg)
+ 
+---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Pop+G+%F0%9F%91%8B;Cybersecurity+Analyst;Digital+Forensics+Specialist;Security+Researcher;Founder+%40+Techmore.ng)](https://git.io/typing-svg)
 
 ---
 
-![Nigeria](https://img.shields.io/badge/🌍_Nigeria-Abuja-00d4aa?style=flat-square)
 ![Ethical Hacker](https://img.shields.io/badge/🔓_Ethical-Hacker-1a1a2e?style=flat-square&labelColor=185fa5&color=e6f1fb)
 ![Malware Analyst](https://img.shields.io/badge/🔬_Malware-Analyst-1a1a2e?style=flat-square&labelColor=534ab7&color=eeedfe)
 ![Techmore](https://img.shields.io/badge/🚀_Founder-Techmore.ng-ff6b35?style=flat-square)
