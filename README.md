@@ -1,9 +1,6 @@
 <div align="center">
- 
+
 <!-- Typing SVG header — replace 'iampopg' with your real GitHub username everywhere below -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Pop+G+%F0%9F%91%8B;Cybersecurity+Analyst;Digital+Forensics+Specialist;Security+Researcher;Founder+%40+Techmore.ng)](https://git.io/typing-svg)
- 
----
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Pop+G+%F0%9F%91%8B;Cybersecurity+Analyst;Digital+Forensics+Specialist;Security+Researcher;Founder+%40+Techmore.ng)](https://git.io/typing-svg)
 
 ---
